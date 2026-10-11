@@ -1,0 +1,44 @@
+[
+  {
+    "model": "Toyota RAV4",
+    "type": "Compact SUV",
+    "hatchOpening": "105 x 81 cm",
+    "depthFolded": "165 cm",
+    "maxTvSize": "65-Inch Box"
+  },
+  {
+    "model": "Honda CR-V",
+    "type": "Compact SUV",
+    "hatchOpening": "108 x 83 cm",
+    "depthFolded": "170 cm",
+    "maxTvSize": "70-Inch Box"
+  },
+  {
+    "model": "Tesla Model Y",
+    "type": "Electric Crossover",
+    "hatchOpening": "100 x 70 cm",
+    "depthFolded": "180 cm",
+    "maxTvSize": "65-Inch Box"
+  },
+  {
+    "model": "Subaru Outback",
+    "type": "Wagon / SUV",
+    "hatchOpening": "106 x 78 cm",
+    "depthFolded": "185 cm",
+    "maxTvSize": "75-Inch Box"
+  },
+  {
+    "model": "Toyota Highlander",
+    "type": "3-Row Midsize SUV",
+    "hatchOpening": "112 x 82 cm",
+    "depthFolded": "205 cm",
+    "maxTvSize": "85-Inch Box"
+  },
+  {
+    "model": "Ford F-150 SuperCrew",
+    "type": "Full-Size Pickup",
+    "hatchOpening": "128 x 100 cm",
+    "depthFolded": "200 cm",
+    "maxTvSize": "85-Inch Box"
+  }
+]
